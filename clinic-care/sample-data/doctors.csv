@@ -1,6 +1,0 @@
-#id,name,phone,specialization,room,onLeave
-D-01,Dr. Anita Rao,9811100011,GENERAL,101,false
-D-02,Dr. Vikram Shah,9811100022,PEDIATRICS,102,false
-D-03,Dr. Meera Iyer,9811100033,DERMATOLOGY,103,false
-D-04,Dr. Sanjay Gupta,9811100044,ORTHOPEDICS,201,false
-D-05,Dr. Farah Khan,9811100055,CARDIOLOGY,202,false
