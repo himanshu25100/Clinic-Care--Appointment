@@ -1,0 +1,2 @@
+#id,patientId,doctorId,date,slot,reason,status,bookedAt,fee
+A-5001,P-1001,D-01,2026-09-21,2,Fever and body ache,COMPLETED,2026-09-17T17:29:27.254686400,300.0

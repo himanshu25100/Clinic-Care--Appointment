@@ -1,0 +1,2 @@
+#id,appointmentId,patientId,doctorId,issuedOn,diagnosis,medicines,advice,followUp
+R-9001,A-5001,P-1001,D-01,2026-09-17,Viral Fever,Paracetamol 650|1-0-1|5;ORS Sachet|1-1-1|3,Rest and fluids,NONE
